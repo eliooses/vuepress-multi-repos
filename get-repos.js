@@ -5,9 +5,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const limitPerPage = 100;
-const apiUrl = "https://api.github.com/" + process.env.REPO_ID_TYPE + "/" + process.env.REPO_ID_USER + "/repos";
-
-console.log("apiUrl: ", apiUrl)
+const apiUrl = "https://api.github.com/" + process.env.REPO_TYPE_ID + "/" + process.env.REPO_USER_ID + "/repos";
 
 const getUsers = async function(pageNo = 1) {
 

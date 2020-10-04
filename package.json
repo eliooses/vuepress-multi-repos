@@ -10,7 +10,7 @@
         "docs:build": "vuepress build docs",
         "repos": "node get-repos.js",
         "submodules": "bash git-submodules.sh",
-        "remove-files": "bash docs/remove-undesirable-files.sh",
+        "remove-files": "bash remove-undesirable-files.sh",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "type": "module",
