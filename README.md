@@ -2,7 +2,7 @@
 
 - `gh repo clone eliooses/vuepress-multi-repos`
 - `cd vuepress-multi-repos`
-- `npm install`
+- `npm i`
 - `npm run repos`
 - `npm run submodules`
 - `npm run remove-files`
