@@ -19,6 +19,7 @@
     "dependencies": {
         "dotenv": "^8.2.0",
         "node-fetch": "^2.6.1",
-        "vuepress": "^1.5.3"
+        "vuepress": "^1.5.3",
+        "vuepress-auto-sidebar": "^1.1.1"
     }
 }

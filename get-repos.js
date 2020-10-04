@@ -35,7 +35,7 @@ const getEntireUserList = async function(pageNo = 1) {
     this.items = entireList
     this.items.forEach(function(item) {
         submodules += '[submodule "' + item.name + '"]' + '\n'
-        submodules += '	path = docs/' + item.name + '\n'
+        submodules += '	path = docs/src/' + item.name + '\n'
         submodules += '	url = ' + item.html_url + '\n'
     });
 
