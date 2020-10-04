@@ -19,7 +19,9 @@ module.exports = {
         sidebar: []
     ...
 ```
+- `cd docs/src`
 - `npx vuepress-auto-sidebar`
+- `cd ../..`
 - `npm run docs:build`
 
 # Update
