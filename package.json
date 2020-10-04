@@ -4,6 +4,10 @@
     "description": "Vuepress multiple repositories",
     "main": "get-repos.js",
     "scripts": {
+        "dev": "vuepress dev src",
+        "build": "vuepress build src",
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs",
         "repos": "node get-repos.js",
         "submodules": "bash git-submodules.sh",
         "remove-files": "bash docs/remove-undesirable-files.sh",
@@ -13,6 +17,8 @@
     "author": "Elio Osés",
     "license": "Apache 2.0",
     "dependencies": {
-        "node-fetch": "^2.6.1"
+        "dotenv": "^8.2.0",
+        "node-fetch": "^2.6.1",
+        "vuepress": "^1.5.3"
     }
 }

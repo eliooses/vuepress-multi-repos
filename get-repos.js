@@ -1,8 +1,13 @@
 const fetch = require("node-fetch");
 const fs = require('fs');
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 const limitPerPage = 100;
-const apiUrl = "https://api.github.com/orgs/zondax/repos";
+const apiUrl = "https://api.github.com/" + process.env.REPO_ID_TYPE + "/" + process.env.REPO_ID_USER + "/repos";
+
+console.log("apiUrl: ", apiUrl)
 
 const getUsers = async function(pageNo = 1) {
 
