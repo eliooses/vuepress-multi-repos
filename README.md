@@ -1,6 +1,7 @@
 # Init
 
-- `git clone <REPO>`
+- `gh repo clone eliooses/vuepress-multi-repos`
+- `cd vuepress-multi-repos`
 - `npm install`
 - `npm run repos`
 - `npm run submodules`
@@ -11,4 +12,4 @@
 # Update
 
 - `git submodule update && npm run remove-files`
-
+- `npm run docs:build`

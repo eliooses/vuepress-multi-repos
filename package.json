@@ -1,17 +1,17 @@
 {
-    "name": "get-repos",
+    "name": "vuepress-multi-repos",
     "version": "1.0.0",
-    "description": "Get all the repositories of a username or organizations",
-    "main": "index.js",
+    "description": "Vuepress multiple repositories",
+    "main": "get-repos.js",
     "scripts": {
         "repos": "node get-repos.js",
-        "submodules": "./git-submodules.sh",
-        "remove-files": "./docs/remove-undesirable-files.sh",
+        "submodules": "bash git-submodules.sh",
+        "remove-files": "bash docs/remove-undesirable-files.sh",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "type": "module",
     "author": "Elio Osés",
-    "license": "ISC",
+    "license": "Apache 2.0",
     "dependencies": {
         "node-fetch": "^2.6.1"
     }
