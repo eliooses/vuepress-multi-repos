@@ -1,0 +1,387 @@
+[submodule "docker-bolos"]
+	path = docs/docker-bolos
+	url = https://github.com/Zondax/docker-bolos
+[submodule "ledger-ci-base"]
+	path = docs/ledger-ci-base
+	url = https://github.com/Zondax/ledger-ci-base
+[submodule "blue-loader-python"]
+	path = docs/blue-loader-python
+	url = https://github.com/Zondax/blue-loader-python
+[submodule "nanos-secure-sdk"]
+	path = docs/nanos-secure-sdk
+	url = https://github.com/Zondax/nanos-secure-sdk
+[submodule "ledger-cosmos-go"]
+	path = docs/ledger-cosmos-go
+	url = https://github.com/Zondax/ledger-cosmos-go
+[submodule "ed25519"]
+	path = docs/ed25519
+	url = https://github.com/Zondax/ed25519
+[submodule "ledger-zxlib"]
+	path = docs/ledger-zxlib
+	url = https://github.com/Zondax/ledger-zxlib
+[submodule "ledger-tendermint-rs"]
+	path = docs/ledger-tendermint-rs
+	url = https://github.com/Zondax/ledger-tendermint-rs
+[submodule "ledger-cosmos-js"]
+	path = docs/ledger-cosmos-js
+	url = https://github.com/Zondax/ledger-cosmos-js
+[submodule "ledger-rs"]
+	path = docs/ledger-rs
+	url = https://github.com/Zondax/ledger-rs
+[submodule "ledger-js"]
+	path = docs/ledger-js
+	url = https://github.com/Zondax/ledger-js
+[submodule "ledger-go"]
+	path = docs/ledger-go
+	url = https://github.com/Zondax/ledger-go
+[submodule "signatory"]
+	path = docs/signatory
+	url = https://github.com/Zondax/signatory
+[submodule "cosmos-sdk"]
+	path = docs/cosmos-sdk
+	url = https://github.com/Zondax/cosmos-sdk
+[submodule "kms"]
+	path = docs/kms
+	url = https://github.com/Zondax/kms
+[submodule "hid-go-obsolete"]
+	path = docs/hid-go-obsolete
+	url = https://github.com/Zondax/hid-go-obsolete
+[submodule "polkadot"]
+	path = docs/polkadot
+	url = https://github.com/Zondax/polkadot
+[submodule "substrate"]
+	path = docs/substrate
+	url = https://github.com/Zondax/substrate
+[submodule "slips"]
+	path = docs/slips
+	url = https://github.com/Zondax/slips
+[submodule "grin"]
+	path = docs/grin
+	url = https://github.com/Zondax/grin
+[submodule "grin-miner"]
+	path = docs/grin-miner
+	url = https://github.com/Zondax/grin-miner
+[submodule "ledger-qrl"]
+	path = docs/ledger-qrl
+	url = https://github.com/Zondax/ledger-qrl
+[submodule "ledger-qrl-app"]
+	path = docs/ledger-qrl-app
+	url = https://github.com/Zondax/ledger-qrl-app
+[submodule "jsmn"]
+	path = docs/jsmn
+	url = https://github.com/Zondax/jsmn
+[submodule "ledger-tendermint"]
+	path = docs/ledger-tendermint
+	url = https://github.com/Zondax/ledger-tendermint
+[submodule "ledger-cosmos-obsolete"]
+	path = docs/ledger-cosmos-obsolete
+	url = https://github.com/Zondax/ledger-cosmos-obsolete
+[submodule "navcoin-core"]
+	path = docs/navcoin-core
+	url = https://github.com/Zondax/navcoin-core
+[submodule "hid"]
+	path = docs/hid
+	url = https://github.com/Zondax/hid
+[submodule "ledger-py"]
+	path = docs/ledger-py
+	url = https://github.com/Zondax/ledger-py
+[submodule "cobra"]
+	path = docs/cobra
+	url = https://github.com/Zondax/cobra
+[submodule "tendermint"]
+	path = docs/tendermint
+	url = https://github.com/Zondax/tendermint
+[submodule "hidapi-rs"]
+	path = docs/hidapi-rs
+	url = https://github.com/Zondax/hidapi-rs
+[submodule "parity-goerli"]
+	path = docs/parity-goerli
+	url = https://github.com/Zondax/parity-goerli
+[submodule "ledger-eos"]
+	path = docs/ledger-eos
+	url = https://github.com/Zondax/ledger-eos
+[submodule "ledger-app-eos"]
+	path = docs/ledger-app-eos
+	url = https://github.com/Zondax/ledger-app-eos
+[submodule "ledger-live-desktop"]
+	path = docs/ledger-live-desktop
+	url = https://github.com/Zondax/ledger-live-desktop
+[submodule "sdk-application-tutorial"]
+	path = docs/sdk-application-tutorial
+	url = https://github.com/Zondax/sdk-application-tutorial
+[submodule "ledger-qrl-js"]
+	path = docs/ledger-qrl-js
+	url = https://github.com/Zondax/ledger-qrl-js
+[submodule "ledger-app-btc"]
+	path = docs/ledger-app-btc
+	url = https://github.com/Zondax/ledger-app-btc
+[submodule "ledger-matrix"]
+	path = docs/ledger-matrix
+	url = https://github.com/Zondax/ledger-matrix
+[submodule "ledger-matrix-js"]
+	path = docs/ledger-matrix-js
+	url = https://github.com/Zondax/ledger-matrix-js
+[submodule "ledger-matrix-app"]
+	path = docs/ledger-matrix-app
+	url = https://github.com/Zondax/ledger-matrix-app
+[submodule "dilithium"]
+	path = docs/dilithium
+	url = https://github.com/Zondax/dilithium
+[submodule "gaia"]
+	path = docs/gaia
+	url = https://github.com/Zondax/gaia
+[submodule "ledger-cosmos"]
+	path = docs/ledger-cosmos
+	url = https://github.com/Zondax/ledger-cosmos
+[submodule "go-algorand"]
+	path = docs/go-algorand
+	url = https://github.com/Zondax/go-algorand
+[submodule "Web3-collaboration"]
+	path = docs/Web3-collaboration
+	url = https://github.com/Zondax/Web3-collaboration
+[submodule "go-bitsong"]
+	path = docs/go-bitsong
+	url = https://github.com/Zondax/go-bitsong
+[submodule "weave"]
+	path = docs/weave
+	url = https://github.com/Zondax/weave
+[submodule "iov-core"]
+	path = docs/iov-core
+	url = https://github.com/Zondax/iov-core
+[submodule "PySyft"]
+	path = docs/PySyft
+	url = https://github.com/Zondax/PySyft
+[submodule "ledger-kusama"]
+	path = docs/ledger-kusama
+	url = https://github.com/Zondax/ledger-kusama
+[submodule "ledger-kusama-app"]
+	path = docs/ledger-kusama-app
+	url = https://github.com/Zondax/ledger-kusama-app
+[submodule "ledger-polkadot-js"]
+	path = docs/ledger-polkadot-js
+	url = https://github.com/Zondax/ledger-polkadot-js
+[submodule "ledger-polkadot-vm"]
+	path = docs/ledger-polkadot-vm
+	url = https://github.com/Zondax/ledger-polkadot-vm
+[submodule "parity-scale-codec"]
+	path = docs/parity-scale-codec
+	url = https://github.com/Zondax/parity-scale-codec
+[submodule "networks"]
+	path = docs/networks
+	url = https://github.com/Zondax/networks
+[submodule "ledger-substrate-rs"]
+	path = docs/ledger-substrate-rs
+	url = https://github.com/Zondax/ledger-substrate-rs
+[submodule "curve25519-dalek"]
+	path = docs/curve25519-dalek
+	url = https://github.com/Zondax/curve25519-dalek
+[submodule "usbarmory-debian-base_image"]
+	path = docs/usbarmory-debian-base_image
+	url = https://github.com/Zondax/usbarmory-debian-base_image
+[submodule "zxtz-polkadot"]
+	path = docs/zxtz-polkadot
+	url = https://github.com/Zondax/zxtz-polkadot
+[submodule "ledger-oasis"]
+	path = docs/ledger-oasis
+	url = https://github.com/Zondax/ledger-oasis
+[submodule "ledger-oasis-app"]
+	path = docs/ledger-oasis-app
+	url = https://github.com/Zondax/ledger-oasis-app
+[submodule "speculos"]
+	path = docs/speculos
+	url = https://github.com/Zondax/speculos
+[submodule "docker-circleci"]
+	path = docs/docker-circleci
+	url = https://github.com/Zondax/docker-circleci
+[submodule "ledger-iov"]
+	path = docs/ledger-iov
+	url = https://github.com/Zondax/ledger-iov
+[submodule "ledger-iov-js"]
+	path = docs/ledger-iov-js
+	url = https://github.com/Zondax/ledger-iov-js
+[submodule "ledger-filecoin"]
+	path = docs/ledger-filecoin
+	url = https://github.com/Zondax/ledger-filecoin
+[submodule "ledger-filecoin-app"]
+	path = docs/ledger-filecoin-app
+	url = https://github.com/Zondax/ledger-filecoin-app
+[submodule "ledger-filecoin-js"]
+	path = docs/ledger-filecoin-js
+	url = https://github.com/Zondax/ledger-filecoin-js
+[submodule "ledger-filecoin-go"]
+	path = docs/ledger-filecoin-go
+	url = https://github.com/Zondax/ledger-filecoin-go
+[submodule "ledger-filecoin-rs"]
+	path = docs/ledger-filecoin-rs
+	url = https://github.com/Zondax/ledger-filecoin-rs
+[submodule "ledger-xar"]
+	path = docs/ledger-xar
+	url = https://github.com/Zondax/ledger-xar
+[submodule "ledger-xar-app"]
+	path = docs/ledger-xar-app
+	url = https://github.com/Zondax/ledger-xar-app
+[submodule "tamago"]
+	path = docs/tamago
+	url = https://github.com/Zondax/tamago
+[submodule "molecule"]
+	path = docs/molecule
+	url = https://github.com/Zondax/molecule
+[submodule "zemu"]
+	path = docs/zemu
+	url = https://github.com/Zondax/zemu
+[submodule "ledger-xar-js"]
+	path = docs/ledger-xar-js
+	url = https://github.com/Zondax/ledger-xar-js
+[submodule "ledger-xar-go"]
+	path = docs/ledger-xar-go
+	url = https://github.com/Zondax/ledger-xar-go
+[submodule "docker-builder"]
+	path = docs/docker-builder
+	url = https://github.com/Zondax/docker-builder
+[submodule "solana"]
+	path = docs/solana
+	url = https://github.com/Zondax/solana
+[submodule "filecoin-signing-tools"]
+	path = docs/filecoin-signing-tools
+	url = https://github.com/Zondax/filecoin-signing-tools
+[submodule "specs"]
+	path = docs/specs
+	url = https://github.com/Zondax/specs
+[submodule "forest"]
+	path = docs/forest
+	url = https://github.com/Zondax/forest
+[submodule "zondbox-images"]
+	path = docs/zondbox-images
+	url = https://github.com/Zondax/zondbox-images
+[submodule "manifest"]
+	path = docs/manifest
+	url = https://github.com/Zondax/manifest
+[submodule "build"]
+	path = docs/build
+	url = https://github.com/Zondax/build
+[submodule "docker-rust-ci"]
+	path = docs/docker-rust-ci
+	url = https://github.com/Zondax/docker-rust-ci
+[submodule "meta-zondax"]
+	path = docs/meta-zondax
+	url = https://github.com/Zondax/meta-zondax
+[submodule "oe-manifest"]
+	path = docs/oe-manifest
+	url = https://github.com/Zondax/oe-manifest
+[submodule "meta-bytesatwork-st"]
+	path = docs/meta-bytesatwork-st
+	url = https://github.com/Zondax/meta-bytesatwork-st
+[submodule "hello-rustee"]
+	path = docs/hello-rustee
+	url = https://github.com/Zondax/hello-rustee
+[submodule "ledger-iov-app"]
+	path = docs/ledger-iov-app
+	url = https://github.com/Zondax/ledger-iov-app
+[submodule "ledger-zcash-rs"]
+	path = docs/ledger-zcash-rs
+	url = https://github.com/Zondax/ledger-zcash-rs
+[submodule "tauri-quasar-example"]
+	path = docs/tauri-quasar-example
+	url = https://github.com/Zondax/tauri-quasar-example
+[submodule "bls12_381"]
+	path = docs/bls12_381
+	url = https://github.com/Zondax/bls12_381
+[submodule "zondbox-manifest"]
+	path = docs/zondbox-manifest
+	url = https://github.com/Zondax/zondbox-manifest
+[submodule "bellman"]
+	path = docs/bellman
+	url = https://github.com/Zondax/bellman
+[submodule "multi-party-ecdsa"]
+	path = docs/multi-party-ecdsa
+	url = https://github.com/Zondax/multi-party-ecdsa
+[submodule "meta-zondax-qemu"]
+	path = docs/meta-zondax-qemu
+	url = https://github.com/Zondax/meta-zondax-qemu
+[submodule "ocl"]
+	path = docs/ocl
+	url = https://github.com/Zondax/ocl
+[submodule "schnorrkel"]
+	path = docs/schnorrkel
+	url = https://github.com/Zondax/schnorrkel
+[submodule "ff"]
+	path = docs/ff
+	url = https://github.com/Zondax/ff
+[submodule "bls-signatures"]
+	path = docs/bls-signatures
+	url = https://github.com/Zondax/bls-signatures
+[submodule "pairing"]
+	path = docs/pairing
+	url = https://github.com/Zondax/pairing
+[submodule "hashes"]
+	path = docs/hashes
+	url = https://github.com/Zondax/hashes
+[submodule "ledger-crypto"]
+	path = docs/ledger-crypto
+	url = https://github.com/Zondax/ledger-crypto
+[submodule "ledger-zcash"]
+	path = docs/ledger-zcash
+	url = https://github.com/Zondax/ledger-zcash
+[submodule "rand"]
+	path = docs/rand
+	url = https://github.com/Zondax/rand
+[submodule "ledger-blockstack"]
+	path = docs/ledger-blockstack
+	url = https://github.com/Zondax/ledger-blockstack
+[submodule "polkadot-js-apps"]
+	path = docs/polkadot-js-apps
+	url = https://github.com/Zondax/polkadot-js-apps
+[submodule "polkadot-wiki"]
+	path = docs/polkadot-wiki
+	url = https://github.com/Zondax/polkadot-wiki
+[submodule "ledger-polkadot"]
+	path = docs/ledger-polkadot
+	url = https://github.com/Zondax/ledger-polkadot
+[submodule "honggfuzz"]
+	path = docs/honggfuzz
+	url = https://github.com/Zondax/honggfuzz
+[submodule "meta-tn-imx-bsp"]
+	path = docs/meta-tn-imx-bsp
+	url = https://github.com/Zondax/meta-tn-imx-bsp
+[submodule "magma"]
+	path = docs/magma
+	url = https://github.com/Zondax/magma
+[submodule "lava"]
+	path = docs/lava
+	url = https://github.com/Zondax/lava
+[submodule "ledger-crypto-rs"]
+	path = docs/ledger-crypto-rs
+	url = https://github.com/Zondax/ledger-crypto-rs
+[submodule "blockchain-tools-rs"]
+	path = docs/blockchain-tools-rs
+	url = https://github.com/Zondax/blockchain-tools-rs
+[submodule "abscissa"]
+	path = docs/abscissa
+	url = https://github.com/Zondax/abscissa
+[submodule "rosetta-filecoin"]
+	path = docs/rosetta-filecoin
+	url = https://github.com/Zondax/rosetta-filecoin
+[submodule "rosetta-filecoin-lib"]
+	path = docs/rosetta-filecoin-lib
+	url = https://github.com/Zondax/rosetta-filecoin-lib
+[submodule "oasis-core-ledger"]
+	path = docs/oasis-core-ledger
+	url = https://github.com/Zondax/oasis-core-ledger
+[submodule "rosetta-filecoin-proxy"]
+	path = docs/rosetta-filecoin-proxy
+	url = https://github.com/Zondax/rosetta-filecoin-proxy
+[submodule "rust-hex"]
+	path = docs/rust-hex
+	url = https://github.com/Zondax/rust-hex
+[submodule "ed25519-dalek"]
+	path = docs/ed25519-dalek
+	url = https://github.com/Zondax/ed25519-dalek
+[submodule "wallet-core-private"]
+	path = docs/wallet-core-private
+	url = https://github.com/Zondax/wallet-core-private
+[submodule "libsodium"]
+	path = docs/libsodium
+	url = https://github.com/Zondax/libsodium
+[submodule "browser-retrieval"]
+	path = docs/browser-retrieval
+	url = https://github.com/Zondax/browser-retrieval
