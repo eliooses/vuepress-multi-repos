@@ -4,10 +4,8 @@
     "description": "Vuepress multiple repositories",
     "main": "get-repos.js",
     "scripts": {
-        "dev": "vuepress dev src",
-        "build": "vuepress build src",
-        "docs:dev": "vuepress dev docs",
-        "docs:build": "vuepress build docs",
+        "docs:dev": "vuepress dev docs/src",
+        "docs:build": "vuepress build docs/src",
         "repos": "node get-repos.js",
         "submodules": "bash git-submodules.sh",
         "remove-files": "bash remove-undesirable-files.sh",

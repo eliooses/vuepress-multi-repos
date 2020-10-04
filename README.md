@@ -7,18 +7,19 @@
 - `npm run repos`
 - `npm run submodules`
 - `npm run remove-files`
-- `npx create-vuepress-site` #ToDo: chequear si fuera necesario
-- Follow the instructions
-- config.js
+- `npx create-vuepress-site`
+- Follow the Vuepress instructions
+- Edit `config.js` file:
 ```javascript
 const sidebar = require('vuepress-auto-sidebar')
 
 module.exports = {
     ...
     themeConfig: {
-        sidebar: sidebar.getSidebar()
+        sidebar: []
     ...
 ```
+- `npx vuepress-auto-sidebar`
 - `npm run docs:build`
 
 # Update
