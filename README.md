@@ -11,12 +11,11 @@
 - Follow the Vuepress instructions
 - Edit `config.js` file:
 ```javascript
-const sidebar = require('vuepress-auto-sidebar')
-
 module.exports = {
     ...
     themeConfig: {
-        sidebar: []
+        sidebar: [],
+        sidebarDepth: 2
     ...
 ```
 - `cd docs/src`
